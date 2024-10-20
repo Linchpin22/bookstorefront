@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Atomic Habits",
+      "title": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "price": 11.98,
+      "category": "Free",
+      "free_or_paid": "Paid",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Power of Now",
+      "title": "A Guide to Spiritual Enlightenment",
+      "price": 9.99,
+      "category": "Free",
+      "free_or_paid": "Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Deep Work",
+      "title": "Rules for Focused Success in a Distracted World",
+      "price": 12.50,
+      "category": "Productivity",
+      "free_or_paid": "Free",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Zero to One",
+      "title": "Notes on Startups, or How to Build the Future",
+      "price": 15.60,
+      "category": "Business",
+      "free_or_paid": "Paid",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Clean Code",
+      "title": "A Handbook of Agile Software Craftsmanship",
+      "price": 32.99,
+      "category": "Programming",
+      "free_or_paid": "Paid",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Lean Startup",
+      "title": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "price": 10.99,
+      "category": "Business",
+      "free_or_paid": "Paid",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 7,
+      "name": "You Don't Know JS",
+      "title": "Scope & Closures",
+      "price": 0.00,
+      "category": "Programming",
+      "free_or_paid": "Free",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sapiens",
+      "title": "A Brief History of Humankind",
+      "price": 14.25,
+      "category": "History",
+      "free_or_paid": "Paid",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Pragmatic Programmer",
+      "title": "Your Journey to Mastery",
+      "price": 29.99,
+      "category": "Programming",
+      "free_or_paid": "Paid",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Educated",
+      "title": "A Memoir",
+      "price": 13.49,
+      "category": "Memoir",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 11,
+      "name": "The Alchemist",
+      "title": "A Fable About Following Your Dream",
+      "price": 8.75,
+      "category": "Fiction",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Psychology of Money",
+      "title": "Timeless Lessons on Wealth, Greed, and Happiness",
+      "price": 17.20,
+      "category": "Finance",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Start with Why",
+      "title": "How Great Leaders Inspire Everyone to Take Action",
+      "price": 9.89,
+      "category": "Leadership",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Art of War",
+      "title": "Ancient Chinese Military Treatise",
+      "price": 0.00,
+      "category": "Philosophy",
+      "free_or_paid": "Free",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Think and Grow Rich",
+      "title": "The Landmark Bestseller",
+      "price": 7.99,
+      "category": "Self-Help",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Rich Dad Poor Dad",
+      "title": "What the Rich Teach Their Kids About Money",
+      "price": 11.49,
+      "category": "Finance",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 17,
+      "name": "The Four Agreements",
+      "title": "A Practical Guide to Personal Freedom",
+      "price": 6.99,
+      "category": "Self-Help",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 18,
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "title": "A Counterintuitive Approach to Living a Good Life",
+      "price": 15.29,
+      "category": "Self-Help",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 19,
+      "name": "JavaScript: The Good Parts",
+      "title": "Unearthing the Excellence in JavaScript",
+      "price": 24.99,
+      "category": "Free",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Can't Hurt Me",
+      "title": "Master Your Mind and Defy the Odds",
+      "price": 14.49,
+      "category": "Free",
+      "free_or_paid": "Paid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/640px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+    }
+  ]
+  
